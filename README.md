@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PSyCHoHaMSTeRza
+- 👋 Hi, I’m Sarel Myburgh
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning on TryHackMe
 
